@@ -1,0 +1,16 @@
+{
+  "name": "coffee-shop-landing-page",
+  "version": "1.0.0",
+  "description": "A dark-themed landing page for a coffee shop built with vanilla JS and no backend.",
+  "main": "index.html",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "jsdom": "^22.0.0",
+    "vitest": "^1.0.0"
+  },
+  "keywords": ["vanilla-js", "landing-page", "coffee-shop", "static"],
+  "author": "TRD Dev",
+  "license": "MIT"
+}
